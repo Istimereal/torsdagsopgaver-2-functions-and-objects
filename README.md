@@ -1,2 +1,5 @@
 # torsdagsopgaver-2-functions-and-objects
- Anthon
+
+ Anthon Juhl Petersen 
+
+cph-ap465@cphbusiness.dk 
